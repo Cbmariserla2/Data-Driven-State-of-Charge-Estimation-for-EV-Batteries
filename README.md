@@ -1,22 +1,6 @@
 # 🔋 Data-Driven State of Charge Estimation for EV Batteries
 ### Using ECM-Integrated Machine Learning Models
 
-> **B.Tech Project-II (MI47034)** | IIT Kharagpur | Spring Semester 2025-26  
-> **Subir Chowdhury School of Quality and Reliability**  
-> Supervised by **Prof. Rajiv Nandan Rai**
-
----
-
-## 👥 Authors
-
-| Name | Roll No |
-|------|---------|
-| Samith Arigila | 22MI31035 |
-| Tharun Rega | 22MI31051 |
-
-
----
-
 ## 📌 Overview
 
 This project develops a **hybrid physics-informed machine learning framework** for accurately estimating the **State of Charge (SOC)** of lithium-ion batteries in electric vehicles (EVs). SOC — the remaining battery capacity as a percentage of full charge — is critical for:
@@ -246,11 +230,3 @@ python python/evaluation.py --model transformer --data data/processed/
 - Chen & Zhao (2022). Transformer-based battery state estimation. *IEEE Trans. Industrial Electronics*, 69(5)
 
 ---
-
-## 📄 License
-
-This project was developed for academic purposes at **IIT Kharagpur**. All rights reserved by the authors and the institute.
-
----
-
-> *"Accurate SOC estimation is not just a technical problem — it is the foundation of safe, reliable, and anxiety-free electric mobility."*
